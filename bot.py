@@ -3,6 +3,7 @@
 # (c) Shrimadhav U K
 
 # the logging things
+import pyrogram
 import logging
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
